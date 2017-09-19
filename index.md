@@ -1,6 +1,3 @@
-# Alan Huang
-My name is Alan, and I am currently a second year at UCI majoring in Computer Science and Engineering.
-
 ## Objectives
 * Experience coding in a professional environment
 * Gain more knowledge about projects outside of school
