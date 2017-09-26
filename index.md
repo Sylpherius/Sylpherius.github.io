@@ -1,7 +1,8 @@
 ## Objectives
-    <p>Experience coding in a professional environment
-    Gain more knowledge about projects outside of school</p>
-    <p>Test</p>
+Experience coding in a professional environment
+
+Gain more knowledge about projects outside of school
+
 
 
 ## Skills
