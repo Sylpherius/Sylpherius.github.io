@@ -28,8 +28,38 @@ to learn this language on a deeper level if required.
 Java is the first language I learned during my junior year of high school. As with Javascript, I am
 confident that I can learn this language on a deeper level if required.
 
+In terms of frameworks, I have worked with Django, React, and Redux throughout my Truckxi internship.
+I am more familiar with React and Redux than Django, and I used Django for back-end work and React/Redux
+for front-end work.
+
 This Fall Quarter I am taking a class that will be teaching me C++, so I will have this language
 at my disposal as well by the time summer hits.
+
+## Experience (outside school)
+### *Truckxi Internship*
+I took on quite a few roles throughout my time at Truckxi. I generally switched between a video editor,
+a bug tester, a bug fixer, and also generally ghosted various programmers.
+
+Truckxi had quite a few projects going on, but the main project that I interacted with helped with was
+a Supply Chain Management service that helped warehouses better keep track of shipments and goods they
+needed or have. The service needed to be able to connect various databases and servers together in order
+to stay up-to-date with the warehouse and its employees. Working on the SCM helped me develop some skills
+in regards to working with servers as well as become more familiar with the division of programming
+jobs between my co-workers. 
+
+In regards to programming, I mainly helped with making sure Purchase Orders and Sales Orders successfully
+rendered properly and updated the inventory. This involved making sure that the user can filter through
+the items they are trying to find and making sure that cancelling orders or updating orders will correctly
+update the server and thus the database.
+
+I spent most of my programming time helping to fix bugs in the back-end and front-end. While working on
+the back-end, I used the Django framework to code with Python. For the front-end I used a combination of
+React and Redux to code with Javascript. 
+
+### *Make School Summer Program*
+WORK IN PROGRESS
+
+### *General Hackathons
 
 [//]: # ## Objectives
 [//]: # * Experience coding in a professional environment
