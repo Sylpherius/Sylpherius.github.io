@@ -1,6 +1,8 @@
 ## Objectives
 * Experience coding in a professional environment
 * Gain more knowledge about projects outside of school
+Testing basic text when just typing stuff
+down lalala
 
 ## Skills
 * Proficient in Java, Python, Swift, and Javascript
