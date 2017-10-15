@@ -89,10 +89,10 @@ Futility.
 
 The classes I'm planning to take are classes that will be taken before next summer.
 
-## Hobbies
-I love playing cards and video games during my spare time. Occasionally, I do enjoy drawing as well or playing the piano when
-one is available to me. Skiing and swimming are seasonal things I do when the opportunity is presented, and I enjoy playing ping 
-pong as well if a table and friends are available to play.
+[//]: ## Hobbies
+[//]: I love playing cards and video games during my spare time. Occasionally, I do enjoy drawing as well or playing the piano when
+[//]: one is available to me. Skiing and swimming are seasonal things I do when the opportunity is presented, and I enjoy playing ping 
+[//]: pong as well if a table and friends are available to play.
 
 
 [//]: # ## Objectives
