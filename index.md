@@ -1,6 +1,8 @@
 # About Me
 
 ## Objectives
+I am a Sophomore at UC Irvine majoring in Computer Science and Engineering. My current cumulative GPA is 3.84, and my GPA for Computer Science-related classes is 4.0.
+
 My main goal at this point in my life is to gain more professional experience with my programming
 skills. I have gained some insight in professional environments when working in my Truckxi internship
 and to some degree my Make School application (which are explained in detail below), but I want to
@@ -12,32 +14,32 @@ many positions as possible in order to decide what path I want to go down before
 college.
 
 ## Skills
-I learned Python throughout all three quarters during my freshman year at UC Irvine and also used
+*Python* -I learned Python throughout all three quarters during my freshman year at UC Irvine and also used
 this language when helping the back-end during my internship at Truckxi. I learned and relearned
 the basics as well during my senior year of high school and through summer sessions at UC 
 Berkeley. This is the language I am currently the most confident in.
 
-I have used Swift when coding my mobile application during the Make School Summer Program a couple
+*Swift* -I have used Swift when coding my mobile application during the Make School Summer Program a couple
 of years ago. I picked up on this language the quickest out of the four languages I know at the moment,
 but I have not spent as much time using this language as with others. Despite the lack of time, however,
 I do feel fairly confident with my abilities programming with Swift and am looking forward to new opportunities
 to practice.
 
-I learned the basics of Javascript during my internship at Truckxi. I am confident that I will be able
+*Javascript* -I learned the basics of Javascript during my internship at Truckxi. I am confident that I will be able
 to learn this language on a deeper level if required.
 
-Java is the first language I learned during my junior year of high school. As with Javascript, I am
+*Java* -Java is the first language I learned during my junior year of high school. As with Javascript, I am
 confident that I can learn this language on a deeper level if required.
 
-In terms of frameworks, I have worked with Django, React, and Redux throughout my Truckxi internship.
+*Frameworks* -In terms of frameworks, I have worked with Django, React, and Redux throughout my Truckxi internship.
 I am more familiar with React and Redux than Django, and I used Django for back-end work and React/Redux
 for front-end work.
 
-This Fall Quarter I am taking a class that will be teaching me C++, so I will have this language
+*C++* -This Fall Quarter I am taking a class that will be teaching me C++, so I will have this language
 at my disposal as well by the time summer hits.
 
 ## Experience (outside school)
-### *Truckxi Internship*
+### *Truckxi Internship (June-August, 2017)*
 I took on quite a few roles throughout my time at Truckxi. I switched between being a video editor,
 a bug tester, a bug fixer, and also generally ghosted various programmers.
 
@@ -57,7 +59,7 @@ I spent most of my programming time helping to fix bugs in the back-end and fron
 the back-end, I used the Django framework to code with Python. For the front-end I used a combination of
 React and Redux to code with Javascript. 
 
-### *Make School Summer Program*
+### *Make School Summer Program (July-August, 2016)*
 During the eight week summer program of Make School, I, along with around twenty others in my category, worked on
 creating a mobile app and publishing it before the program ended. In my case, I created an game application called
 Futility. Futility is essentially an arcade survival-style game where the user tries to score as many points as possible.
@@ -72,20 +74,20 @@ Throughout the course of this program, I collaborated with my coding neighbors i
 each other bug-test each other's games and criticized each others' UX designs to make the mobile app feel simplistic and easy-to-use.
 We also initially worked together to accumulate and combine ideas so all of us would be able to choose a concept we saw potential in.
 
-### *Hackathons*
+### *Hackathons (2015-2016)* 
 I went to a variety of hackathons throughout highschool that gave me my first feel of working in a group and coding outside of school.
 During these hackathons I took on various roles, which include being a coordinator, coder, graphics designer, and tester. We created 
 different types of games such as a side-scrolling survivor game or a simplistic arcade survival-esque game somewhat reminiscent of 
 Futility. 
 
 ## Classes Taken and Will Take
-* Introduction to Programming taught me the fundamentals of Python.
-* Programming with Software Libraries ranged from topics such as server connections to utilizing outside resources and libraries with python.
-* Intermediate Programming focused more on the specific details of Python, such as overloading functions and debugging code.
-* Introduction to Digital Systems taught more computer engineering-related subjects such as logic gates.
-* I'm planning to take Programming in C/C++ which will provide me with another language to use.
-* I'm planning to take Network Analysis which will go over basic network theorems.
-* I'm planning to take Introduction to Software Engineering which will teach me the basics of software engineering as a whole.
+* **Introduction to Programming** taught me the fundamentals of Python.
+* **Programming with Software Libraries** ranged from topics such as server connections to utilizing outside resources and libraries with python.
+* **Intermediate Programming** focused more on the specific details of Python, such as overloading functions and debugging code.
+* **Introduction to Digital Systems** taught more computer engineering-related subjects such as logic gates.
+* I will complete the class of **Programming in C/C++** which will provide me with another language to use.
+* I will complete the class of **Network Analysis** which will go over basic network theorems.
+* I will complete the class of **Introduction to Software Engineering** which will teach me the basics of software engineering as a whole.
 
 The classes I'm planning to take are classes that will be taken before next summer.
 
