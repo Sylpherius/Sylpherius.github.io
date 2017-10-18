@@ -1,5 +1,7 @@
 # About Me
 
+![Image of Me](Sylpherius.github.io/img/Website_Image.jpg)
+
 ## Objectives
 I am a Sophomore at UC Irvine majoring in Computer Science and Engineering. My current cumulative GPA is 3.84, and my GPA for Computer Science-related classes is 4.0.
 
