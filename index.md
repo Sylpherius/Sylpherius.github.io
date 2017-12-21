@@ -90,8 +90,11 @@ Futility.
 * **Programming in C/C++** taught basic and intermediate knowledge of C++
 * **Introduction to Data Management** taught the fundamental of SQL
 * **Introduction to Software Engineering** taught me the basics of software engineering as a whole.
-* I will complete the class of **Programming in Java** which will give me deeper insight in the language.
-* I will complete the class of **Data Structure Implementation and Analysis** which goes more in depth about data structures in C++.
+* I will complete the class of **Programming in Java** which will give me deeper insight in Java.
+* I will complete the class of **Data Structure Implementation and Analysis** which goes more in depth about data structures and alogrithms in C++.
+* I will complete the class of **Projects in Databases and Web Applications** which will go more in depth about database management systems such as SQL and advanced programming concepts.
+* I will complete the class of **Principles in System Design** which covers the principles of engineering of computer software and hardware systems.
+* I will complete the class of **Introductory Computer Organization** which goes over a multilevel view of system hardware and software.
 
 The classes I'm planning to take are classes that will be taken before next summer.
 
