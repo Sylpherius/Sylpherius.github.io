@@ -3,7 +3,7 @@
 ![Image of Me](Sylpherius.github.io/img/Website_Image.jpg)
 
 ## Objectives
-I am a Sophomore at UC Irvine majoring in Computer Science and Engineering. My current cumulative GPA is 3.84, and my GPA for Computer Science-related classes is 4.0.
+I am a Sophomore at UC Irvine majoring in Computer Science and Engineering. My current cumulative GPA is 3.86, and my GPA for Computer Science-related classes is 4.0.
 
 My main goal at this point in my life is to gain more professional experience with my programming
 skills. I have gained some insight in professional environments when working in my Truckxi internship
@@ -87,9 +87,11 @@ Futility.
 * **Programming with Software Libraries** ranged from topics such as server connections to utilizing outside resources and libraries with python.
 * **Intermediate Programming** focused more on the specific details of Python, such as overloading functions and debugging code.
 * **Introduction to Digital Systems** taught more computer engineering-related subjects such as logic gates.
-* I will complete the class of **Programming in C/C++** which will provide me with another language to use.
-* I will complete the class of **Network Analysis** which will go over basic network theorems.
-* I will complete the class of **Introduction to Software Engineering** which will teach me the basics of software engineering as a whole.
+* **Programming in C/C++** taught basic and intermediate knowledge of C++
+* **Introduction to Data Management** taught the fundamental of SQL
+* **Introduction to Software Engineering** taught me the basics of software engineering as a whole.
+* I will complete the class of **Programming in Java** which will give me deeper insight in the language.
+* I will complete the class of **Data Structure Implementation and Analysis** which goes more in depth about data structures in C++.
 
 The classes I'm planning to take are classes that will be taken before next summer.
 
