@@ -3,7 +3,7 @@
 ![Image of Me](Sylpherius.github.io/img/Website_Image.jpg)
 
 ## Objectives
-I am a Sophomore at UC Irvine majoring in Computer Science and Engineering. My current cumulative GPA is 3.86, and my GPA for Computer Science-related classes is 4.0.
+I am a Sophomore at UC Irvine majoring in Computer Science. My current cumulative GPA is 3.86, and my GPA for Computer Science-related classes is 4.0.
 
 My main goal at this point in my life is to gain more professional experience with my programming
 skills. I have gained some insight in professional environments when working in my Truckxi internship
