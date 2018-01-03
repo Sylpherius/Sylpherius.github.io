@@ -83,20 +83,22 @@ different types of games such as a side-scrolling survivor game or a simplistic 
 Futility. 
 
 ## Classes Taken and Will Take
-* **Introduction to Programming** taught me the fundamentals of Python.
-* **Programming with Software Libraries** ranged from topics such as server connections to utilizing outside resources and libraries with python.
-* **Intermediate Programming** focused more on the specific details of Python, such as overloading functions and debugging code.
-* **Introduction to Digital Systems** taught more computer engineering-related subjects such as logic gates.
-* **Programming in C/C++** taught basic and intermediate knowledge of C++
-* **Introduction to Data Management** taught the fundamental of SQL
-* **Introduction to Software Engineering** taught me the basics of software engineering as a whole.
-* I will complete the class of **Programming in Java** which will give me deeper insight in Java.
-* I will complete the class of **Data Structure Implementation and Analysis** which goes more in depth about data structures and alogrithms in C++.
-* I will complete the class of **Projects in Databases and Web Applications** which will go more in depth about database management systems such as SQL and advanced programming concepts.
-* I will complete the class of **Principles in System Design** which covers the principles of engineering of computer software and hardware systems.
-* I will complete the class of **Introductory Computer Organization** which goes over a multilevel view of system hardware and software.
+* **Introduction to Programming** (fundamentals of Python)
+* **Programming with Software Libraries** (topics such as server connections to utilizing outside resources and libraries with Python)
+* **Intermediate Programming** (specific details of Python, such as overloading functions and debugging code)
+* **Introduction to Digital Systems** (computer engineering-related subjects such as logic gates)
+* **Programming in C/C++** (basic and intermediate knowledge of C++)
+* **Introduction to Data Management** (fundamentals of SQL)
+* **Introduction to Software Engineering** (basics of software engineering)
+* I will complete the class of **Programming in Java** (intermediate Java)
+* I will complete the class of **Data Structure Implementation and Analysis** (data structures and algorithms in C++)
+* I will complete the class of **Projects in Databases and Web Applications** (in-depth look at database management systems such as SQL and advanced programming concepts)
+* I will complete the class of **Principles in System Design** (principles of engineering of computer software and hardware systems)
+* I will complete the class of **Introductory Computer Organization** (multilevel view of system hardware and software)
 
 The classes I'm planning to take are classes that will be taken before next summer.
+
+LinkedIn Account: www.linkedin.com/in/AlanHuangUCI
 
 [//]: ## Hobbies
 [//]: I love playing cards and video games during my spare time. Occasionally, I do enjoy drawing as well or playing the piano when
