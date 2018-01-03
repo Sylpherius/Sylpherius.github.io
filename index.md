@@ -98,7 +98,7 @@ Futility.
 
 The classes I'm planning to take are classes that will be taken before next summer.
 
-LinkedIn Account: www.linkedin.com/in/AlanHuangUCI
+LinkedIn Account: <www.linkedin.com/in/AlanHuangUCI>
 
 [//]: ## Hobbies
 [//]: I love playing cards and video games during my spare time. Occasionally, I do enjoy drawing as well or playing the piano when
