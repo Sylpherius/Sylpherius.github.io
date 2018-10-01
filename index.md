@@ -3,10 +3,12 @@
 ![Image of Me](Sylpherius.github.io/img/Website.jpg)
 
 ## Objectives
-I am a Sophomore at UC Irvine majoring in Computer Science. My current cumulative GPA is 3.86, and my GPA for Computer Science-related classes is 4.0.
+I am currently a Junior at UC Irvine majoring in Computer Science. My current cumulative GPA is 3.70.
 
-My main goal at this point in my life is to gain more professional experience with my programming
-skills. I have gained some insight in professional environments when working in my Truckxi internship
+My main goal at the moment is to gain more professional experience with my programming
+skills and hopefully discover an internship that will both peak my interest in the field and
+extend into a full-time job offer after I graduate from UCI. I have gained some insight
+in professional environments when working in my Truckxi and JD internships
 and to some degree my Make School application (which are explained in detail below), but I want to
 be able to continually add to my experience in order to better understand what kinds of programming
 I'm more interested in. 
