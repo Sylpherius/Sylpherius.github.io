@@ -3,7 +3,7 @@
 ![Image of Me](Sylpherius.github.io/img/Website.jpg)
 
 ## Objectives
-I am currently a Junior at UC Irvine majoring in Computer Science. My current cumulative GPA is 3.70.
+I am currently a Junior at UC Irvine majoring in Computer Science and specializing in Algorithms. My current cumulative GPA is 3.70.
 
 My main goal at the moment is to gain more professional experience with my programming
 skills and hopefully discover an internship that will both peak my interest in the field and
@@ -32,6 +32,8 @@ to practice.
 *Javascript* -I learned the basics of Javascript during my internship at Truckxi. I am confident that I will be able
 to learn this language on a deeper level if required.
 
+*Bootstrap* -I learned the basics of Bootstrap during my Informatics 133 class at UCI, which is generally about Computer-User Interaction.
+
 *Java* -Java is the first language I learned during my junior year of high school. As with Javascript, I am
 confident that I can learn this language on a deeper level if required.
 
@@ -39,10 +41,28 @@ confident that I can learn this language on a deeper level if required.
 I am more familiar with React and Redux than Django, and I used Django for back-end work and React/Redux
 for front-end work.
 
-*C++* -This Fall Quarter I am taking a class that will be teaching me C++, so I will have this language
-at my disposal as well by the time summer hits.
+*C++* -I took taking a class that taught the fundamentals of C++, so I have a proficient understanding of the language.
 
 ## Experience (outside school)
+### *JD.com Internship (June-September, 2018)*
+JD.com is China's largest online retailer and its biggest overall retailer. I worked at a US branch of the company in 
+Mountain View, CA. I was an intern in the AI NLP branch and worked in the backend for this project.
+
+My main goal as an AI NLP intern was to get their English deep parsing system's accuracy to rise from ~30% to ~70% over 
+the course of the summer. In this internship, I was able to have first-hand experience in seeing how the entire parsing
+system worked, including the input, tokenization, parsing, their server-test system, to the end product. Most of the backend
+was all coded in Python, but I also needed to learn and utilize their own custom language when modifying or creating rules to 
+grammatically structure the English sentences. 
+
+My main job as intern was to go through a cycle of rule modification/creation, unit tests, and unit regression tests, as well 
+as updating and maintaining the large English lexicons we had in the database. I was occasionally assigned to add new features
+to the English parsing system such as ways to incorporate compound words and a stemming feature to catch words that may have
+been missing from the lexicon in our database.
+
+Overall, this project allowed me to gain more experience in picking up new concepts faster in terms of learning their custom 
+language as well as manipulating large databases in the form of the English lexicons. I was also able to understand how the 
+entirety of a system works from input to output for English deep parsing.
+
 ### *Truckxi Internship (June-August, 2017)*
 I took on quite a few roles throughout my time at Truckxi. I switched between being a video editor,
 a bug tester, a bug fixer, and also generally ghosted various programmers.
@@ -92,11 +112,14 @@ Futility.
 * **Programming in C/C++** (basic and intermediate knowledge of C++)
 * **Introduction to Data Management** (fundamentals of SQL)
 * **Introduction to Software Engineering** (basics of software engineering)
-* I will complete the class of **Programming in Java** (intermediate Java)
-* I will complete the class of **Data Structure Implementation and Analysis** (data structures and algorithms in C++)
-* I will complete the class of **Projects in Databases and Web Applications** (in-depth look at database management systems such as SQL and advanced programming concepts)
-* I will complete the class of **Principles in System Design** (principles of engineering of computer software and hardware systems)
-* I will complete the class of **Introductory Computer Organization** (multilevel view of system hardware and software)
+* **Programming in Java** (intermediate Java)
+* **Data Structure Implementation and Analysis** (data structures and algorithms in C++)
+* **Projects in Databases and Web Applications** (in-depth look at database management systems such as SQL and advanced programming concepts)
+* **Principles in System Design** (principles of engineering of computer software and hardware systems)
+* **Introductory Computer Organization** (multilevel view of system hardware and software)
+* I will complete the class of **Computer Networking** (the history and current status of computer networks)
+* I will complete the class of **User Interaction Software** (teaches Javascript, Bootstrap, and other front-end knowledge)
+* I will complete the class of **Design and Analysis of Algorithms** (more in-depth knowledge about algorithms)
 
 The classes I'm planning to take are classes that will be taken before next summer.
 
