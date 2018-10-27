@@ -61,7 +61,8 @@ been missing from the lexicon in our database.
 
 Overall, this project allowed me to gain more experience in picking up new concepts faster in terms of learning their custom 
 language as well as manipulating large databases in the form of the English lexicons. I was also able to understand how the 
-entirety of a system works from input to output for English deep parsing.
+entirety of a system works from input to output for English deep parsing. By the end of the internship, I was able to raise the
+accuracy to pass the 70% expectation and make the system around 85% accurate.
 
 ### *Truckxi Internship (June-August, 2017)*
 I took on quite a few roles throughout my time at Truckxi. I switched between being a video editor,
