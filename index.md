@@ -43,6 +43,8 @@ for front-end work.
 
 *C++* -I took taking a class that taught the fundamentals of C++, so I have a proficient understanding of the language.
 
+*Linux* -Quite a few of my classes use linux and vm's, so my overall knowledge surrounding the topic is pretty solid.
+
 ## Experience (outside school)
 ### *JD.com Internship (June-September, 2018)*
 JD.com is China's largest online retailer and its biggest overall retailer. I worked at a US branch of the company in 
@@ -118,9 +120,10 @@ Futility.
 * **Projects in Databases and Web Applications** (in-depth look at database management systems such as SQL and advanced programming concepts)
 * **Principles in System Design** (principles of engineering of computer software and hardware systems)
 * **Introductory Computer Organization** (multilevel view of system hardware and software)
-* I will complete the class of **Computer Networking** (the history and current status of computer networks)
-* I will complete the class of **User Interaction Software** (teaches Javascript, Bootstrap, and other front-end knowledge)
-* I will complete the class of **Design and Analysis of Algorithms** (more in-depth knowledge about algorithms)
+* **Computer Networking** (the history and current status of computer networks)
+* **User Interaction Software** (teaches Javascript, Bootstrap, and other front-end knowledge)
+* **Design and Analysis of Algorithms** (more in-depth knowledge about algorithms)
+* **Principle in System Design** (teaches C, but more importantly taught and practiced concepts surrounding shell-scripting)
 
 The classes I'm planning to take are classes that will be taken before next summer.
 
