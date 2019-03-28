@@ -3,7 +3,7 @@
 ![Image of Me](Sylpherius.github.io/img/Website.jpg)
 
 ## Objectives
-I am currently a Junior at UC Irvine majoring in Computer Science and specializing in Algorithms. My current cumulative GPA is 3.70.
+I am currently a Junior at UC Irvine majoring in Computer Science and specializing in Algorithms. My current cumulative GPA is 3.7.
 
 My main goal at the moment is to gain more professional experience with my programming
 skills and hopefully discover an internship that will both peak my interest in the field and
@@ -37,13 +37,20 @@ to learn this language on a deeper level if required.
 *Java* -Java is the first language I learned during my junior year of high school. As with Javascript, I am
 confident that I can learn this language on a deeper level if required.
 
-*Frameworks* -In terms of frameworks, I have worked with Django, React, and Redux throughout my Truckxi internship.
-I am more familiar with React and Redux than Django, and I used Django for back-end work and React/Redux
+*Frameworks* -In terms of frameworks, I have worked with Django, React, and Redux throughout my Truckxi internship, and touched upon Angular through various classes. I am more familiar with React and Redux than Django, and I used Django for back-end work and React/Redux
 for front-end work.
 
 *C++* -I took taking a class that taught the fundamentals of C++, so I have a proficient understanding of the language.
 
-*Linux* -Quite a few of my classes use linux and vm's, so my overall knowledge surrounding the topic is pretty solid.
+*C* -I took a software design class that utilized C. It went into a lot of lower-level topics so I have done a few small projects in class about shell-scripting and signal catching.
+
+*Linux* -Quite a few of my classes use linux and vm's; my overall knowledge surrounding the topic is pretty solid.
+
+*AWS* -My Project in Databases and Web Applications class revolved around using AWS instances to get an application running.
+
+*MySQL* -I took a few classes that required database manipulation, and my Project in Databases and Web Applications class utilized this in conjunction with Java Servlets.
+
+*HTML/CSS* -Many classes touch upon these two topics so I have a solid understanding of how to utilize them and have confidence in quickly learning anything I haven't used before.
 
 ## Experience (outside school)
 ### *JD.com Internship (June-September, 2018)*
@@ -101,6 +108,13 @@ Throughout the course of this program, I collaborated with my coding neighbors i
 each other bug-test each other's games and criticized each others' UX designs to make the mobile app feel simplistic and easy-to-use.
 We also initially worked together to accumulate and combine ideas so all of us would be able to choose a concept we saw potential in.
 
+### *Project in Databases and Web Applications*
+This project class' main goal was to create a website that allowed users to search for and purchase movies online. Throughout the quarter I have used MySQL, AWS instances, Java, JavaScript, HTML, and CSS to accomplish the tasks set forth.
+
+HTML/CSS and JavaScript made up the front-end and communicated with the back-end (consisting of Java Servlets) through JSON objects. We also experimented with ReCaptcha and password encryption for security measures. In terms of search functionalities we experimented with various search query matches in MySQL as well as fulltext searches and fuzzy searching. To allow for scalability we also used load balancing to make sure many users wouldn't interfere with each other in terms of accessing the database and utilized Jmeter to get statistics on which methods were more efficient. In addition to the online website, we also used Android Studios to create a simulated Android application that ran a simplified version of the entire project.
+
+Overall this class was very engaging and gave me a very useful experience of creating a project from scratch, as well as taking into account not only the security but also isolation of customer transactions to create a smooth and safe user experience.
+
 ### *Hackathons (2015-2016)* 
 I went to a variety of hackathons throughout highschool that gave me my first feel of working in a group and coding outside of school.
 During these hackathons I took on various roles, which include being a coordinator, coder, graphics designer, and tester. We created 
@@ -126,8 +140,18 @@ Futility.
 * **Principle in System Design** (teaches C, but more importantly taught and practiced concepts surrounding shell-scripting)
 
 The classes I'm planning to take are classes that will be taken before next summer.
+* **Project in Algorithms and Data Structions** (implementation of algorithms in projects)
+* **Computational Geometry** (algorithms and data structures for geometric computation and graphics programming)
+* **Formal Languages and Automata Theory** (formal aspects of describing and recognizing languages by grammars and automata)
 
-LinkedIn Account: <www.linkedin.com/in/AlanHuangUCI>
+LinkedIn Account: <https://www.linkedin.com/in/AlanHuangUCI>
+
+[//]: ## Hobbies
+[//]: Outside of computer science and academics as a whole, I have two main hobbies which consist of dancing and gaming.
+[//]: Gaming is pretty self-explanatory, and in terms of dancing I'm currently in a kpop dance team in UCI called KKAP.
+
+
+
 
 [//]: ## Hobbies
 [//]: I love playing cards and video games during my spare time. Occasionally, I do enjoy drawing as well or playing the piano when
