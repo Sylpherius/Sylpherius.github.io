@@ -45,8 +45,13 @@ for front-end work.
 *HTML/CSS* -Many classes touch upon these two topics so I have a solid understanding of how to utilize them and have confidence in quickly learning anything I haven't used before.
 
 ## Experience (outside school)
-### *Leica Geosystems Internship (June-September, 2019)*
-Leica Geosystems focuses its efforts on producing products and systems for geographical measurement and surveying.
+### *Leica Geosystems Internship (June-Present, 2019)*
+Currently I'm still interning at Leica Geosystems.
+Leica Geosystems focuses its efforts on producing products and systems for geographical measurement and surveying. 
+
+My main goal as a software development intern was to create a C# program that essentially demo-ed most of the features that Leica's software do. It took in Cyclone, Jetstream, and LGS files (all 3D point cloud manipulating software) and allowed for manipulation of the point cloud. I was to base all of the C# features on a similar C++ program that was already implemented. The goal was for my program to be used by other C# developers as a basis to see how Leica's products worked. Throughout working on this project, I have spent ample time learning debugging techniques for both C# and C++ in Visual Studios, as well as learn how to share information to and from C++ native code to the managed C# code. I worked with callback functions and many kinds of typecasting, and learned how to work with much larger projects than what I was used to (over tens of thousands of lines of code, and many different classes and files I had to understand in order to implement the program). The general outline of the program was there, such as the base classes of 3D lines, quaternions, cylinders, etc. but most of the tools to utilize them had to be implemented by me. Near the end of the internship I will gain experience in documentation as well, as I will need to document the api of the C# program for future developers to use. 
+
+Overall I believe I am currently doing very well in accomplishing the goals set out for me for this internship. I came in having never used C# or Visual Studios and now I am handling both smoothly when debugging and creating new tools for the program.
 
 ### *JD.com Internship (June-September, 2018)*
 JD.com is China's largest online retailer and its biggest overall retailer. I worked at a US branch of the company in 
@@ -133,13 +138,16 @@ Futility.
 * **User Interaction Software** (teaches Javascript, Bootstrap, and other front-end knowledge)
 * **Design and Analysis of Algorithms** (more in-depth knowledge about algorithms)
 * **Principle in System Design** (teaches C, but more importantly taught and practiced concepts surrounding shell-scripting)
-
-The classes I'm planning to take are classes that will be taken before next summer.
 * **Project in Algorithms and Data Structions** (implementation of algorithms in projects)
 * **Computational Geometry** (algorithms and data structures for geometric computation and graphics programming)
 * **Formal Languages and Automata Theory** (formal aspects of describing and recognizing languages by grammars and automata)
 
 LinkedIn Account: <https://www.linkedin.com/in/AlanHuangUCI>
+
+## Hobbies
+**Dancing**: I'm currently a part of UCI's kpop dance team KKAP. I hadn't had any prior experience in either kpop or dance before I joined my freshman year, but it's added so much more meaning to my life than I had really experienced before college. I love the atmosphere and the music, and have been a part of board for 2 years now. It really gives me a sense of community and collaboration in an otherwise relatively monotonous college life. The channel on Youtube is kkapuci. My favorite dance cover posted on Youtube would probably be Hala Hala by Ateez.
+
+**Drawing**: I've taken drawing classes since I was little up to high school, and have since rekindled my interest in drawing during my junior year of college. I'm currently working on a desktop background that has been taking a long, long time so I really hope it'll turn out well in the end.
 
 [//]: ## Hobbies
 [//]: Outside of computer science and academics as a whole, I have two main hobbies which consist of dancing and gaming.
