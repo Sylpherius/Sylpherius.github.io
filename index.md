@@ -3,19 +3,9 @@
 ![Image of Me](Sylpherius.github.io/img/Website.jpg)
 
 ## Objectives
-I am currently a Junior at UC Irvine majoring in Computer Science and specializing in Algorithms. My current cumulative GPA is 3.7.
+I am currently a Senior at UC Irvine majoring in Computer Science and specializing in Algorithms. My current cumulative GPA is 3.67.
 
-My main goal at the moment is to gain more professional experience with my programming
-skills and hopefully discover an internship that will both peak my interest in the field and
-extend into a full-time job offer after I graduate from UCI. I have gained some insight
-in professional environments when working in my Truckxi and JD internships
-and to some degree my Make School application (which are explained in detail below), but I want to
-be able to continually add to my experience in order to better understand what kinds of programming
-I'm more interested in. 
-
-I still have no plans on specializing in any area at the moment so I am hoping to fit myself in as
-many positions as possible in order to decide what path I want to go down before I graduate from
-college.
+I'm currently actively looking for a full-time job offer in the computer science field after I graduate from UCI. Aside from specializing in Algorithms through my major, I currently don't have any particular field of computer science I would prioritize over another.
 
 ## Skills
 *Python* -I learned Python throughout all three quarters during my freshman year at UC Irvine and also used
@@ -40,7 +30,9 @@ confident that I can learn this language on a deeper level if required.
 *Frameworks* -In terms of frameworks, I have worked with Django, React, and Redux throughout my Truckxi internship, and touched upon Angular through various classes. I am more familiar with React and Redux than Django, and I used Django for back-end work and React/Redux
 for front-end work.
 
-*C++* -I took taking a class that taught the fundamentals of C++, so I have a proficient understanding of the language.
+*C++* -I took a class that taught the fundamentals of C++, and have worked with it quite a bit during my internship at Leica Geosystems.
+
+*C#* -All my experience with C# comes from my internship at Leica Geosystems, but throughout the time I've interned at Leica, I have used C# extensively and thoroughly. At this point time I'm confident in my C# skills.
 
 *C* -I took a software design class that utilized C. It went into a lot of lower-level topics so I have done a few small projects in class about shell-scripting and signal catching.
 
@@ -53,6 +45,9 @@ for front-end work.
 *HTML/CSS* -Many classes touch upon these two topics so I have a solid understanding of how to utilize them and have confidence in quickly learning anything I haven't used before.
 
 ## Experience (outside school)
+### *Leica Geosystems Internship (June-September, 2019)*
+Leica Geosystems focuses its efforts on producing products and systems for geographical measurement and surveying.
+
 ### *JD.com Internship (June-September, 2018)*
 JD.com is China's largest online retailer and its biggest overall retailer. I worked at a US branch of the company in 
 Mountain View, CA. I was an intern in the AI NLP branch and worked in the backend for this project.
